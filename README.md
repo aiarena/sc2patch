@@ -11,10 +11,6 @@ A version manager should no longer be required to adjust IDs between game versio
 
 To detect these maps query map name through the Sc2 API and all map names will end with "5.0.6"
 
-(Following link needs to be updated)
-
-https://aiarena.net/wiki/ids-50-maps-410-linux-version/
-
 ## Changelog
 ### 20/02/04
 Added 5.0.6 Maps
