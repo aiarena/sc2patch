@@ -61,22 +61,7 @@
         <EffectArray Reference="Effect,LurkerMP,PeriodCount" Value="2"/>
     </CUpgrade>
     <CUpgrade id="TerranBuildingArmor">
-        <AffectedUnitArray index="29" value="PointDefenseDrone"/>
-        <AffectedUnitArray index="30" value="BypassArmorDrone"/>
-        <AffectedUnitArray value="RavenRepairDrone"/>
         <AffectedUnitArray value="RefineryRich"/>
-        <EffectArray index="58" Reference="Unit,PointDefenseDrone,LifeArmorLevel" Value="2"/>
-        <EffectArray index="59" Reference="Unit,PointDefenseDrone,LifeArmor"/>
-        <EffectArray index="60" Reference="Unit,BypassArmorDrone,LifeArmorLevel"/>
-        <EffectArray index="61" Reference="Unit,BypassArmorDrone,LifeArmor"/>
-        <EffectArray Reference="Unit,RavenRepairDrone,LifeArmorLevel" Value="2"/>
-        <EffectArray Reference="Unit,RavenRepairDrone,LifeArmor" Value="2"/>
-        <EffectArray Reference="Abil,BunkerTransport,MaxCargoCount" Value="2"/>
-        <EffectArray Reference="Abil,BunkerTransport,TotalCargoSpace" Value="2"/>
-        <EffectArray Reference="Abil,CommandCenterTransport,MaxCargoCount" Value="5"/>
-        <EffectArray Reference="Abil,CommandCenterTransport,TotalCargoSpace" Value="5"/>
-        <EffectArray Operation="Set" Reference="Actor,Bunker,Wireframe.Image[0]" Value="Assets\Textures\wireframe-terran-bunker-neosteelframe.dds"/>
-        <EffectArray Operation="Set" Reference="Actor,Bunker,GroupIcon.Image[0]" Value="Assets\Textures\wireframe-terran-bunker-neosteelframe.dds"/>
         <EffectArray Reference="Unit,RefineryRich,LifeArmor" Value="2"/>
         <EffectArray Reference="Unit,RefineryRich,LifeArmorLevel" Value="2"/>
     </CUpgrade>
