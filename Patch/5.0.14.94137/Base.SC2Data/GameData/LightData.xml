@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="Endion">
+        <ToDInfoArray index="0" Id="Helios" AmbientColor="0.466667,0.419608,0.360784" UseSeparateDetailSSAO="1">
+            <Param index="HDRExposure" value="1.500000"/>
+            <Param index="HDRBloomThreshold" value="1.500000"/>
+            <Param index="TerrainSpecularExp" value="34.000000"/>
+            <Param index="TerrainHDRDiffuse" value="0.900000"/>
+            <Param index="TerrainHDRSpecular" value="2.410000"/>
+            <Param index="CreepSpecularExp" value="32.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="0.800000"/>
+            <Param index="ColorizationBrightness" value="1.175000"/>
+            <Param index="ColorizationContrast" value="1.135000"/>
+            <Param index="ColorizationHue" value="0.080000"/>
+            <Param index="ColorizationSaturation" value="0.000000"/>
+            <Param index="ColorizationLightness" value="0.000000"/>
+            <Param index="ColorizationBlend" value="0.016000"/>
+            <Param index="AOOcclusionRadius" value="0.100000"/>
+            <Param index="AONoOcclusion" value="0.020000"/>
+            <Param index="AOFullOcclusion" value="0.000000"/>
+            <Param index="AOOcclusionPower" value="1.970000"/>
+            <Param index="AODetailOcclusionRadius" value="0.023000"/>
+            <Param index="AODetailNoOcclusion" value="0.015000"/>
+            <Param index="AODetailOcclusionPower" value="3.610000"/>
+            <DirectionalLight index="Key">
+                <Color value="1.000000,0.992157,0.901961"/>
+                <ColorMultiplier value="1.020000"/>
+                <SpecularColor value="1.000000,1.000000,1.000000"/>
+                <SpecColorMultiplier value="1.250000"/>
+                <Direction value="0.412953,-0.598833,-0.686199"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.407843,0.462745,0.796078" ColorMultiplier="0.730000" Direction="-0.816719,0.500682,-0.286859"/>
+            <DirectionalLight index="Back" Color="0.141176,0.396078,0.694118" ColorMultiplier="1.060000" Direction="-0.190089,-0.980661,0.046583"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>
