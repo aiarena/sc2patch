@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CCliff id="ProtossBaseManmadeCliffs">
+        <CliffMaterial value="Assets\Cliffs\StarShipDarkCliff0_Material\StarShipDarkCliff0_Material.m3"/>
+    </CCliff>
+</Catalog>

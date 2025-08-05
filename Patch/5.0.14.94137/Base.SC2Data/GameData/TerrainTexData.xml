@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="BelShirBrushEx2">
+        <DoodadEntry index="0" Model="Dynamic_Grass_Elsecaro_Long" Probability="0.200000"/>
+        <DoodadEntry index="1" Model="Rock_Mix_Elsecaro" Probability="0.050000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro1">
+        <Normalmap value="Assets\Textures\marsara_dark_sandnormal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro12">
+        <Texture value="Assets\Textures\Elsecaro_1.dds"/>
+        <Normalmap value="Assets\Textures\Elsecaro_1Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon_Elsecaro_1.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro4">
+        <DoodadEntry index="0" removed="1"/>
+    </CTerrainTex>
+</Catalog>
